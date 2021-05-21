@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="51" viewBox="0 0 282 51">
+  <text id="PavanAgarbatti" transform="translate(56 37)" fill="#81b937" font-size="29" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Pavan</tspan><tspan y="0" fill="#eb7753">Agarbatti</tspan></text>
+  <g id="Ellipse_1" data-name="Ellipse 1" fill="#7bd441" stroke="#707070" stroke-width="1">
+    <ellipse cx="26.5" cy="25.5" rx="26.5" ry="25.5" stroke="none"/>
+    <ellipse cx="26.5" cy="25.5" rx="26" ry="25" fill="none"/>
+  </g>
+  <text id="P" transform="translate(17 37)" fill="#f3844c" font-size="30" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">P</tspan></text>
+</svg>
